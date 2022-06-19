@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Gochi+Hand');
+
+*{
+    background: aliceblue;
+    font-family: 'Gochi Hand', cursive;
+    letter-spacing: .2em;
+    
+}
+body {
+    background: var(--clr-grey-10);
+    color: var(--clr-grey-1);
+    line-height: 1.5;
+    font-size: 1rem;
+    word-spacing: 3px;
+}
+
+form {
+    display: inline;
+}
+input {
+    width: 50%;
+    padding: 10 10 10 10;
+}
+button{
+    padding: 10 10 10 10;    
+}
